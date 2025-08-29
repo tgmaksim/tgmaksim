@@ -24,7 +24,7 @@
   <li>🖥️&nbsp; Проекты, статьи и достижения на моем <a href="https://tgmaksim.ru" target="_blank" rel="noreferrer">личном сайте</a></li>
   <li>✉️&nbsp; Свзяаться можно в Telegram: <a href="https://t.me/Maksim_Driuchin" target="_blank" rel="noreferrer">@Maksim_Driuchin</a></li>
   <li>🚀&nbsp; В данный момент активно работаю над <a href="https://github.com/tgmaksim/Maksogram" target="_blank" rel="noreferrer">Maksogram</a></li>
-  <li>🧠&nbsp; Изучаю Andoid Studio и создаю <a href="https://github.com/tgmaksim/Maugram" target="_blank" rel="noreferrer">Maugram</a></li>
+  <li>🧠&nbsp; Изучаю Andoid Studio и создаю <a href="https://github.com/tgmaksim/Gougram" target="_blank" rel="noreferrer">Gougram</a></li>
 </ul>
 
 

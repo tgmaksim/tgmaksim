@@ -2,7 +2,7 @@
 <h2>Разработчик</h2>
 
 <div id="profiles">
-  <a href="https://t.me/Maksim_Driuchin">
+  <a href="https://t.me/tgmaksim_company">
     <img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=telegram&logoColor=white" alt="Telegram профиль"/>
   </a>
   <a href="https://www.tiktok.com/maksogram">
@@ -23,7 +23,7 @@
   <li>🌍&nbsp; Живу в Омске, Россия</li>
   <li>🖥️&nbsp; Проекты, статьи и достижения на моем <a href="https://tgmaksim.ru" target="_blank" rel="noreferrer">личном сайте</a></li>
   <li>✉️&nbsp; Свзяаться можно в Telegram: <a href="https://t.me/Maksim_Driuchin" target="_blank" rel="noreferrer">@Maksim_Driuchin</a></li>
-  <li>🚀&nbsp; В данный момент активно работаю над <a href="https://github.com/tgmaksim/Maksogram" target="_blank" rel="noreferrer">Maksogram</a></li>
+  <li>🚀&nbsp; В данный момент активно работаю над <a href="https://github.com/tgmaksim/Activium" target="_blank" rel="noreferrer">Activium</a></li>
 </ul>
 
 

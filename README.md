@@ -27,7 +27,7 @@
 </ul>
 
 
-### Тесно работал с...
+### Работал с
 
 <div align="left">
   <span>
@@ -50,6 +50,9 @@
   </span>
   <span>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" />
+  </span>
+  <span>
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" alt="Kotlin" title="Kotlin" width="36" height="36" />
   </span>
 </div>
 
